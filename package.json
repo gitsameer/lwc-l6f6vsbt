@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/sameer.singh@gmail.com.lwc-l6f6vsbt",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve UKYuGDkNRFobTfyynrh9 --open"
+  }
+}
